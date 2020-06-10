@@ -3,7 +3,7 @@
 Linux性能优化记录和总结,发现只有不断的学习和不断的完善知识体系才能提升自己的认知,这个过程是相互促进和提高的,也记录下自己最近在看的书的一些感悟,提升到最后的时候都是在不断的完善自己的知识体系.
 
 <p align="center">
-<img width="100%" align="center" src="images/08.jpg" />
+<img width="100%" align="center" src="src/images/08.jpg" />
 </p>
  
 
