@@ -29,3 +29,4 @@ Linux性能优化记录和总结,发现只有不断的学习和不断的完善�
 * [计算机的硬件组成](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter04/01.0.md)
 * [linux的内存分布](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter05/01.0.md)
 * [cpu性能优化](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter06/01.0.md)
+* [文件系统与磁盘](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter07/01.0.md)
