@@ -31,3 +31,4 @@ Linux性能优化记录和总结,发现只有不断的学习和不断的完善�
 * [cpu性能优化](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter06/01.0.md)
 * [文件系统与磁盘](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter07/01.0.md)
 * [浮点数在计算机中是如何存储](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter08/01.0.md)
+* [linux中内存升高了如何解决](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter09/01.0.md)
