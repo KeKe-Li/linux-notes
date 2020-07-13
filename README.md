@@ -36,3 +36,4 @@ Linux性能优化记录和总结,发现只有不断的学习和不断的完善�
 * [磁盘IO性能优化方式](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter11/01.0.md)
 * [linux网络模型](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter12/01.0.md)
 * [内存对齐](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter13/01.0.md)
+* [linux进程和线程](https://github.com/KeKe-Li/linux-notes/blob/master/src/chapter14/01.0.md)
